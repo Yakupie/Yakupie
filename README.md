@@ -1,7 +1,5 @@
 # Hi, I'm Yakup 👋
 
-(https://media1.tenor.com/m/UY9WmovM9VsAAAAC/anime-girl-sleepy.gif)
-
 ## About Me
 I am currently studying **Statistics at Fırat University**.  
 I have a strong interest in **Artificial Intelligence, Deep Learning, and the Stock Market**, and I have a good command of **Mathematics**.  
