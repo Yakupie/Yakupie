@@ -1,6 +1,6 @@
 # Hi, I'm Yakup 👋
 
-https://media1.tenor.com/m/UY9WmovM9VsAAAAC/anime-girl-sleepy.gif
+(https://media1.tenor.com/m/UY9WmovM9VsAAAAC/anime-girl-sleepy.gif)
 
 ## About Me
 I am currently studying **Statistics at Fırat University**.  
