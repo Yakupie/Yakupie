@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome!+I'm+Yakup" />
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&duration=2000&pause=1000&color=color=FF00FF&center=true&vCenter=true&width=500&lines=Welcome!+I'm+Yakup" />
   </a>
 </p>
 
