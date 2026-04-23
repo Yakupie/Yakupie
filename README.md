@@ -39,3 +39,4 @@
 
 [![animated-line](https://github.com/readme-SVG/animated-line/blob/main/STORAGE/line-svg-FFFFFF.svg)](https://github.com/readme-SVG/animated-line)
 
+![Profile views](https://komarev.com/ghpvc/?username=ahmet123&color=green)
