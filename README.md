@@ -40,7 +40,7 @@
 [![animated-line](https://github.com/readme-SVG/animated-line/blob/main/STORAGE/line-svg-FFFFFF.svg)](https://github.com/readme-SVG/animated-line)
 
 <p align="center">
-  ![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Yakupie)
+  https://github.com/Yakupie/Yakupie/blob/main/profile-3d-contrib/profile-green.svg
 </p>
 
 [![animated-line](https://github.com/readme-SVG/animated-line/blob/main/STORAGE/line-svg-FFFFFF.svg)](https://github.com/readme-SVG/animated-line)
