@@ -2,7 +2,7 @@
   <img src="./kitty's.gif" width="1000" height="300" />
 </p>
 
-<h1 align="center">
+<h1 align="center" color="#F9B2D7">
   ˚₊‧꒰ა Welcome! I'm Yakup ໒꒱ ‧₊˚
 </h1>
 
