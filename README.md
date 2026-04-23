@@ -1,37 +1,12 @@
 <p align="center">
   <img src="./kitty's.gif" width="1000" height="400" />
 </p>
-
-<p align="center">
-  <svg width="600" height="120" viewBox="0 0 600 120">
-    <defs>
-      <filter id="neonGlow">
-        <feGaussianBlur stdDeviation="4" result="blur"/>
-        <feMerge>
-          <feMergeNode in="blur"/>
-          <feMergeNode in="SourceGraphic"/>
-        </feMerge>
-      </filter>
-    </defs>
-    <text x="50%" y="50%" text-anchor="middle"
-      fill="white"
-      font-size="40"
-      font-family="Arial"
-      filter="url(#neonGlow)">
-      Neon Text
-      <animate attributeName="opacity"
-        values="1;0.5;1;0.2;1"
-        dur="2s"
-        repeatCount="indefinite"/>
-      <animateTransform
-        attributeName="transform"
-        type="translate"
-        values="0 0; 0 -10; 0 0; 0 10; 0 0"
-        dur="3s"
-        repeatCount="indefinite"/> 
-    </text>
-  </svg>
-</p>
+<text filter="url(#glow)">Hello</text>
+<defs>
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="4"/>
+  </filter>
+</defs>
 
 ## About Me
 I am currently studying **Statistics at Fırat University**.  
