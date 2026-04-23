@@ -2,6 +2,10 @@
   <img src="./kitty's.gif" width="1000" height="300" />
 </p>
 
+<p>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monsterrant&weight=700&duration=2000&pause=1000&color=FFFFFF&width=435&lines=%CB%9A%E2%9C%A9+%E2%8B%86%EF%BD%A1%CB%9A+%E2%9C%A9+Welcome!+I'm+Yakup+.%E1%90%9F+%E2%9F%A2++%DB%AB" alt="Typing SVG" /></a>
+</p>
+
 
 ## About Me
 I am currently studying **Statistics at Fırat University**.  
