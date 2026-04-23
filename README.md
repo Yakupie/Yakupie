@@ -11,8 +11,6 @@
 
 <table width="100%">
   <tr>
-
-    <!-- SOL TARAF -->
     <td width="50%" valign="top">
 
 <h2 align="center">👤 About Me</h2>
@@ -24,10 +22,7 @@
 - I have strong skills in **Mathematics and Web Development**
 
 </p>
-
     </td>
-
-    <!-- SAĞ TARAF -->
     <td width="50%" valign="top" align="center">
 
 <h2 align="center">📊 GitHub Stats</h2>
@@ -39,7 +34,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yakupie&show_icons=true&theme=tokyonight" />
 </p>
-
     </td>
 
   </tr>
