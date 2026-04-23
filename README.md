@@ -11,11 +11,14 @@
   <tr>
     <td width="50%" valign="top">
       <h2 align="center">𐙚 About Me</h2>
-      <p align="center">
-      - I am currently studying **Statistics at Fırat University**  
-      - I am interested in **Artificial Intelligence, Deep Learning, and the Stock Market**  
-      - I have strong skills in **Mathematics and Web Development**
-      </p>
+
+<div align="center">
+  <ul style="display: inline-block; text-align: left;">
+    <li>I am currently studying <b>Statistics at Fırat University</b></li>
+    <li>I am interested in <b>Artificial Intelligence, Deep Learning, and the Stock Market</b></li>
+    <li>I have strong skills in <b>Mathematics and Web Development</b></li>
+  </ul>
+</div>
       <br>
       <h2 align="center"> ྀིྀ Tech Stack</h2>
       <p align="center">
