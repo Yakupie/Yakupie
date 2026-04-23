@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <b>✨ ˚₊‧꒰ა Welcome! I'm Yakup ໒꒱ ‧₊˚ </b>
+  <b> ˚₊‧꒰ა Welcome! I'm Yakup ໒꒱ ‧₊˚ </b>
 </h1>
 
 [![animated-line](https://github.com/readme-SVG/animated-line/blob/main/STORAGE/line-svg-FFFFFF.svg)](https://github.com/readme-SVG/animated-line)
@@ -13,7 +13,7 @@
   <tr>
     <td width="50%" valign="top">
 
-<h2 align="center">👤 About Me</h2>
+<h2 align="center">𐙚 About Me</h2>
 
 <p align="center">
 
@@ -25,7 +25,7 @@
     </td>
     <td width="50%" valign="top" align="center">
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">𓏲ּ𝄢 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yakupie&layout=compact&theme=github_dark" />
