@@ -11,15 +11,12 @@
 
 <table width="100%">
   <tr>
-    <td align="left">
-      🔵 Sol taraf içerik<br>
-      - Yazı 1<br>
-      - Yazı 2
-    </td>
-    <td align="right">
-      🟣 Sağ taraf içerik<br>
-      - Discord: xxx<br>
-      - GitHub: xxx
+    <td align="left" width="50%">
+### 👤 About Me
+
+I am currently studying **Statistics at Fırat University**.  
+I have a strong interest in **Artificial Intelligence, Deep Learning, and the Stock Market**, and I have a good command of **Mathematics**.  
+I am also skilled in **Web Development**.
     </td>
   </tr>
 </table>
