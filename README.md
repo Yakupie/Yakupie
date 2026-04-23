@@ -1,4 +1,4 @@
-![Alt Text]([https://tenor.com/tr/view/kitty's-gif-9641400986736307616))
+![Alt Text]([https://media1.tenor.com/m/hc0jHXeEraAAAAAd/kitty%27s.gif))
 
 ## About Me
 I am currently studying **Statistics at Fırat University**.  
