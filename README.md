@@ -3,6 +3,6 @@
 </p>
 
 <h1 align="center">
-  <b>✨ ˚₊‧꒰ა Welcome! I'm Yakup ໒꒱ ‧₊˚ </b> <br>
-  [![animated-line](https://github.com/readme-SVG/animated-line/blob/main/STORAGE/line-svg-FFFFFF.svg)](https://github.com/readme-SVG/animated-line)
+  <b>✨ ˚₊‧꒰ა Welcome! I'm Yakup ໒꒱ ‧₊˚ </b>
 </h1>
+[![animated-line](https://github.com/readme-SVG/animated-line/blob/main/STORAGE/line-svg-FFFFFF.svg)](https://github.com/readme-SVG/animated-line)
