@@ -17,9 +17,9 @@
       - I have strong skills in **Mathematics and Web Development**
       </p>
       <br>
-      <h2 align="center">🛠 Tech Stack</h2>
+      <h2 align="center"> ྀིྀ Tech Stack</h2>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=python,r,html,css,javascript,git,github,linux" />
+        <img src="https://skillicons.dev/icons?i=html,css,javascript,svelte,python,c,git,github,vscode" />
       </p>
     </td>
     <td width="50%" valign="top" align="center">
