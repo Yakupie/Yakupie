@@ -3,7 +3,24 @@
 </p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monsterrant&weight=700&duration=2000&pause=1000&color=FFFFFF&width=435&lines=%CB%9A%E2%9C%A9+%E2%8B%86%EF%BD%A1%CB%9A+%E2%9C%A9+Welcome!+I'm+Yakup+.%E1%90%9F+%E2%9F%A2++%DB%AB+%E2%9C%A9+%E2%8B%86" alt="Typing SVG" /></a>
+<p align="center">
+<svg width="600" height="100">
+  <defs>
+    <linearGradient id="grad">
+      <stop offset="0%" stop-color="#00f7ff">
+        <animate attributeName="stop-color" values="#00f7ff;#ff00ff;#00f7ff" dur="3s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#ff00ff">
+        <animate attributeName="stop-color" values="#ff00ff;#00f7ff;#ff00ff" dur="3s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <text x="50%" y="50%" text-anchor="middle" font-size="32" fill="url(#grad)" font-weight="bold">
+    Welcome! I'm Yakup
+  </text>
+</svg>
+</p>
 </p>
 
 
