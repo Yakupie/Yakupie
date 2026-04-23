@@ -39,4 +39,3 @@
 
 [![animated-line](https://github.com/readme-SVG/animated-line/blob/main/STORAGE/line-svg-FFFFFF.svg)](https://github.com/readme-SVG/animated-line)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yakupie&theme=react-dark" />
