@@ -2,9 +2,9 @@
   <img src="./kitty's.gif" width="1000" height="300" />
 </p>
 
-<h1 align="center" color="#F9B2D7">
-  ˚₊‧꒰ა Welcome! I'm Yakup ໒꒱ ‧₊˚
-</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/˚₊‧꒰ა+Welcome!+I'm+Yakup+໒꒱+‧₊˚"-F9B2D7?style=for-the-badge&labelColor=000000" />
+</p>
 
 [![animated-line](https://github.com/readme-SVG/animated-line/blob/main/STORAGE/line-svg-FFFFFF.svg)](https://github.com/readme-SVG/animated-line)
 
