@@ -1,21 +1,7 @@
 <p align="center">
   <img src="./kitty's.gif" width="1000" height="400" />
 </p>
-<p align="center">
-  <svg width="500" height="80">
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-      fill="white" font-size="30" font-family="Arial">
-      <tspan>
-        Welcome to My Profile
-        <animate attributeName="opacity"
-          values="1;0.4;1"
-          dur="1.5s"
-          repeatCount="indefinite" />
-      </tspan>
-    </text>
-  </svg>
-</p>
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:000000&height=200&section=header&text=Welcome&fontColor=ffffff)
 ## About Me
 I am currently studying **Statistics at Fırat University**.  
 I have a strong interest in **Artificial Intelligence, Deep Learning, and the Stock Market**, and I have a good command of **Mathematics**.  
