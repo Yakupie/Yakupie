@@ -2,9 +2,7 @@
   <img src="./kitty's.gif" width="1000" height="300" />
 </p>
 
-<p align="center" font-size="30">
-# ˚✩ ⋆｡˚  Welcome! I'm Yakup ⟢  ۫ ✩ ⋆
-</p>
+<h1 align="center">˚✩ ⋆｡˚ Welcome! I'm Yakup ⟢ ۫ ✩ ⋆</h1>
 
 
 ## About Me
