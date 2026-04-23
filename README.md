@@ -12,7 +12,7 @@
 <table width="100%">
   <tr>
     <td align="left" width="50%">
-### 👤 About Me
+<h2>👤 About Me</h2>
 
 I am currently studying **Statistics at Fırat University**.  
 I have a strong interest in **Artificial Intelligence, Deep Learning, and the Stock Market**, and I have a good command of **Mathematics**.  
