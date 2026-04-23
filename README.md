@@ -1,4 +1,4 @@
-# Hi, I'm Yakup 👋
+![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://media1.tenor.com/m/RNIRVCWc_iYAAAAC/vnc-vanitas.gif))
 
 ## About Me
 I am currently studying **Statistics at Fırat University**.  
