@@ -1,4 +1,4 @@
-![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://media1.tenor.com/m/RNIRVCWc_iYAAAAC/vnc-vanitas.gif))
+![Alt Text]([https://tenor.com/tr/view/kitty's-gif-9641400986736307616))
 
 ## About Me
 I am currently studying **Statistics at Fırat University**.  
