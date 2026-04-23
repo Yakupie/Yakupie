@@ -13,8 +13,10 @@
   <tr>
     <td width="50%" valign="top">
 <h1 align="center">👤 About Me</h2><br>
-- I am currently studying **Statistics at Fırat University**<br>
-- I am interested in **Artificial Intelligence, Deep Learning, and the Stock Market**<br>
+- I am currently studying **Statistics at Fırat University**
+<br>
+- I am interested in **Artificial Intelligence, Deep Learning, and the Stock Market**
+<br>
 - I have strong skills in **Mathematics and Web Development**
     </td>
     <td width="50%" align="right" valign="top">
