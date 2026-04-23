@@ -1,9 +1,7 @@
 <p align="center">
   <img src="./kitty's.gif" width="1000" height="400" />
 </p>
-<text font-family="Courier New">
-  Hello
-</text>
+
 
 ## About Me
 I am currently studying **Statistics at Fırat University**.  
