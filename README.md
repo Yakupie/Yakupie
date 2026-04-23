@@ -1,4 +1,6 @@
-![kitty](./kitty's.gif)
+<p align="center">
+  <img src="./kitty's.gif" width="250" />
+</p>
 
 ## About Me
 I am currently studying **Statistics at Fırat University**.  
