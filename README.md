@@ -1,7 +1,20 @@
 <p align="center">
   <img src="./kitty's.gif" width="1000" height="400" />
 </p>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+<p align="center">
+  <svg width="500" height="80">
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+      fill="white" font-size="30" font-family="Arial">
+      <tspan>
+        Welcome to My Profile
+        <animate attributeName="opacity"
+          values="1;0.4;1"
+          dur="1.5s"
+          repeatCount="indefinite" />
+      </tspan>
+    </text>
+  </svg>
+</p>
 
 ## About Me
 I am currently studying **Statistics at Fırat University**.  
