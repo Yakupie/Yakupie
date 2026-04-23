@@ -4,7 +4,7 @@
 
 <h1 align="center" > ˚₊‧꒰ა Welcome! I'm Yakup ໒꒱ ‧₊˚ </h1>
 
-[![animated-line](https://github.com/readme-SVG/animated-line/blob/main/STORAGE/line-svg-FFFFFF.svg)](https://github.com/readme-SVG/animated-line)
+![line](https://github.com/readme-SVG/animated-line/blob/main/STORAGE/line-svg-808080.svg)
 
 
 <table width="100%">
