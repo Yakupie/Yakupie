@@ -1,12 +1,9 @@
 <p align="center">
   <img src="./kitty's.gif" width="1000" height="400" />
 </p>
-<text filter="url(#glow)">Hello</text>
-<defs>
-  <filter id="glow">
-    <feGaussianBlur stdDeviation="4"/>
-  </filter>
-</defs>
+<text font-family="Courier New">
+  Hello
+</text>
 
 ## About Me
 I am currently studying **Statistics at Fırat University**.  
