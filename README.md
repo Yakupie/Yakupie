@@ -9,7 +9,7 @@
 [![animated-line](https://github.com/readme-SVG/animated-line/blob/main/STORAGE/line-svg-FFFFFF.svg)](https://github.com/readme-SVG/animated-line)
 
 
-**<table width="100%">
+<table width="100%">
   <tr>
     <td align="left">
       🔵 Sol taraf içerik<br>
@@ -22,4 +22,4 @@
       - GitHub: xxx
     </td>
   </tr>
-</table>**
+</table>
