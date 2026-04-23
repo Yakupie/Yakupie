@@ -1,7 +1,38 @@
 <p align="center">
   <img src="./kitty's.gif" width="1000" height="400" />
 </p>
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:000000&height=200&section=header&text=Welcome&fontColor=ffffff)
+
+<p align="center">
+  <svg width="600" height="120" viewBox="0 0 600 120">
+    <defs>
+      <filter id="neonGlow">
+        <feGaussianBlur stdDeviation="4" result="blur"/>
+        <feMerge>
+          <feMergeNode in="blur"/>
+          <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+      </filter>
+    </defs>
+    <text x="50%" y="50%" text-anchor="middle"
+      fill="white"
+      font-size="40"
+      font-family="Arial"
+      filter="url(#neonGlow)">
+      Neon Text
+      <animate attributeName="opacity"
+        values="1;0.5;1;0.2;1"
+        dur="2s"
+        repeatCount="indefinite"/>
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="0 0; 0 -10; 0 0; 0 10; 0 0"
+        dur="3s"
+        repeatCount="indefinite"/> 
+    </text>
+  </svg>
+</p>
+
 ## About Me
 I am currently studying **Statistics at Fırat University**.  
 I have a strong interest in **Artificial Intelligence, Deep Learning, and the Stock Market**, and I have a good command of **Mathematics**.  
