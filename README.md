@@ -11,19 +11,36 @@
 
 <table width="100%">
   <tr>
+
+    <!-- SOL TARAF -->
     <td width="50%" valign="top">
-<h1 align="center">👤 About Me</h2><br>
-- I am currently studying **Statistics at Fırat University**
-<br>
-- I am interested in **Artificial Intelligence, Deep Learning, and the Stock Market**
-<br>
+
+<h2 align="center">👤 About Me</h2>
+
+<p align="center">
+
+- I am currently studying **Statistics at Fırat University**  
+- I am interested in **Artificial Intelligence, Deep Learning, and the Stock Market**  
 - I have strong skills in **Mathematics and Web Development**
+
+</p>
+
     </td>
-    <td width="50%" align="right" valign="top">
-<h1 align="center">📊 GitHub Stats</h2>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yakupie&layout=compact&theme=tokyonight" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=Yakupie&show_icons=true&theme=tokyonight" />
+
+    <!-- SAĞ TARAF -->
+    <td width="50%" valign="top" align="center">
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yakupie&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yakupie&show_icons=true&theme=tokyonight" />
+</p>
+
     </td>
+
   </tr>
 </table>
