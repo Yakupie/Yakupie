@@ -2,9 +2,7 @@
   <img src="./kitty's.gif" width="1000" height="300" />
 </p>
 
-  <p align="center">
-  <img src="https://dummyimage.com/700x80/000000/f9b2d7&text=%E2%9C%A8+Welcome!+I'm+Yakup+%E2%9C%A8" />
-</p>
+<h1 align="center" > ˚₊‧꒰ა Welcome! I'm Yakup ໒꒱ ‧₊˚ </h1> color olmuyor
 
 [![animated-line](https://github.com/readme-SVG/animated-line/blob/main/STORAGE/line-svg-FFFFFF.svg)](https://github.com/readme-SVG/animated-line)
 
