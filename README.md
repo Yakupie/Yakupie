@@ -19,7 +19,7 @@
     </td>
     <td width="50%" align="right" valign="top">
 <h1 align="center">📊 GitHub Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yakupie&layout=compact&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yakupie&layout=compact&theme=tokyonight" />
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=Yakupie&show_icons=true&theme=tokyonight" />
     </td>
