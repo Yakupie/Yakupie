@@ -10,7 +10,7 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-<h2 align="center">𐙚 About Me</h2>
+<h3 align="center">𐙚 About Me</h3>
 
 <div align="center">
   <p style="text-align: left; display: inline-block;">
@@ -20,13 +20,13 @@
   </p>
 </div>
       <br>
-      <h2 align="center"> ྀིྀ Tech Stack</h2>
+      <h3 align="center"> ྀིྀ Tech Stack</h3>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=html,css,javascript,svelte,python,c,git,github,vscode" />
       </p>
     </td>
     <td width="50%" valign="top" align="center">
-      <h2 align="center">𓏲ּ𝄢 GitHub Stats</h2>
+      <h3 align="center">𓏲ּ𝄢 GitHub Stats</h3>
       <p align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yakupie&layout=compact&theme=github_dark" />
       </p>
