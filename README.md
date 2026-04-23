@@ -3,7 +3,7 @@
 </p>
 
 <p align="center" font-size="30">
-˚✩ ⋆｡˚  Welcome! I'm Yakup ⟢  ۫ ✩ ⋆
+# ˚✩ ⋆｡˚  Welcome! I'm Yakup ⟢  ۫ ✩ ⋆
 </p>
 
 
