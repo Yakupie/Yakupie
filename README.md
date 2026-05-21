@@ -24,8 +24,7 @@
     <td width="60%" valign="top">
       <h2>💫 About Me</h2>
       <p>🌱 I am currently honing my programming skills through active development.</p>
-      <p>🛠️ Experienced in <b>.NET Framework</b> and <b>Model-View-Controller (MVC)</b> architecture.</p>
-      <p>🐍 Proficient in <b>Python</b> and <b>SQL</b>.</p>
+      <p>🛠️ Experienced in <b>.Web Developmentk</b> and <b>Front-End</b> architecture.</p>
       <p>⚡ Passionate about <b>Artificial Intelligence, Machine Learning, Data Science, Automation,</b> and <b>Blockchain</b>.</p>
       <p>✨ Driven by a commitment to <b>perfection</b> in every line of code.</p>
     </td>
