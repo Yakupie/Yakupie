@@ -34,15 +34,6 @@
 
 <br/>
 
-### 📊 Github Status
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yakupie&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yakupie&layout=compact&theme=tokyonight&hide_border=false" width="45%" />
-</p>
-
-<br/>
-
 ### 📚 Languages & Tools I Have Placed My Hands On
 
 <p align="center">
