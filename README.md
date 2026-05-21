@@ -16,7 +16,7 @@
 
 <br/>
 
-### <h1>About Me</h1>
+### <h1 align="center">About Me</h1>
 
 <table align="center" width="100%">
   <tr>
@@ -34,7 +34,7 @@
 
 <br/>
 
-### <h1>Languages & Tools I Have Placed My Hands On</h1>
+### <h1 align="center">Languages & Tools I Have Placed My Hands On</h1>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,svelte,nodejs,python,c,git,vscode" />
