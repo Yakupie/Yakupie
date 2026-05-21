@@ -46,5 +46,5 @@
 ### 📚 Languages & Tools I Have Placed My Hands On
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,svelte,qwik,astro,nodejs,python,c,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,svelte,qwik,react,nextjs,nodejs,python,c,git,vscode,figma" />
 </p>
