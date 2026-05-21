@@ -8,8 +8,8 @@
   <img src="https://img.shields.io/github/stars/Yakupie?style=for-the-badge&color=black&labelColor=black&logo=github&logoColor=white" height="28"/>
 </p>
 
-
-<p align="center">
-  <h1> Hello I'm Yakup</h1>
+<!-- Çözüm Burası: p yerine div kullandık ve gereksiz iç p etiketini temizledik -->
+<div align="center">
+  <h1>Hello I'm Yakup</h1>
   <p>SAAAAAAAAAAAAAAAA</p>
-</p>
+</div>
