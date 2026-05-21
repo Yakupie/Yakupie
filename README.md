@@ -20,15 +20,17 @@
 
 
 <table align="center" width="100%" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td align="left" valign="top" width="50%" style="border: none;">
-      <h3>Tech Stack</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=html,css,js,svelte,astro,c,py&theme=dark" />
-      </p>
+  <tr>
+    <td width="60%" valign="top">
+      <h2>💫 About Me</h2>
+      <p>🌱 I am currently honing my programming skills through active development.</p>
+      <p>🛠️ Experienced in <b>.NET Framework</b> and <b>Model-View-Controller (MVC)</b> architecture.</p>
+      <p>🐍 Proficient in <b>Python</b> and <b>SQL</b>.</p>
+      <p>⚡ Passionate about <b>Artificial Intelligence, Machine Learning, Data Science, Automation,</b> and <b>Blockchain</b>.</p>
+      <p>✨ Driven by a commitment to <b>perfection</b> in every line of code.</p>
     </td>
-    <td align="right" valign="top" width="50%" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yakupie&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" />
+    <td width="40%" align="center">
+      <img src="your-image-source.png" width="300px" alt="Programmer Illustration">
     </td>
   </tr>
 </table>
