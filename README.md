@@ -29,28 +29,15 @@
 
 
 <table align="center" width="100%" style="border-collapse: collapse; border: none;">
-
   <tr style="border: none;">
     <td align="left" valign="top" width="50%" style="border: none;">
       <h3>Tech Stack</h3>
       <p>
-        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-        <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/svelte-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte"/>
-        <img src="https://img.shields.io/badge/qwik-%23161618.svg?style=for-the-badge&logo=qwik&logoColor=white" alt="Qwik"/>
-        <img src="https://img.shields.io/badge/astro-%23FF5D01.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro"/>
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-        <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://skillicons.dev/icons?i=html,css,js,svelte,astro,c,py&theme=dark" />
       </p>
     </td>
     <td align="right" valign="top" width="50%" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yakupie&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Most Used Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yakupie&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" />
     </td>
   </tr>
 </table>
-
