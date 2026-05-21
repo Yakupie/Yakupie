@@ -8,7 +8,7 @@
   <p>I am a Full-Stack Web Developer and a Statistics student at Fırat University who is passionate about creating modern, scalable, and visually engaging digital experiences. Since my early years, I have been deeply interested in computers, web technologies, and software development. My goal is to combine software engineering with AI-driven systems and analytical thinking to create impactful, innovative, and intelligent applications.</p>
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Yakupie&label=Profile%20Views&color=007acc&style=flat-square" height="25"/>
+    <img src="https://komarev.com/ghpvc/?username=Yakupie&label=Profile%20Views&color=black&style=flat-square" height="25"/>
     <img src="https://img.shields.io/github/stars/Yakupie?style=flat-square&color=orange&label=STARS" height="25"/>
     <img src="https://img.shields.io/github/followers/Yakupie?style=flat-square&color=blue&label=FOLLOWERS" height="25"/>
   </p>
