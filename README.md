@@ -17,7 +17,7 @@
 </p>
 </div>
 
-
+<hr/>
 
 <table align="center" width="100%" style="border-collapse: collapse; border: none;">
   <tr>
