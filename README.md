@@ -29,7 +29,7 @@
       <p>✨ Driven by a commitment to <b>perfection</b> in every line of code.</p>
     </td>
     <td width="40%" align="center">
-      <img src="your-image-source.png" width="300px" alt="Programmer Illustration">
+      <img src="code.png" width="300px" alt="Programmer Illustration">
     </td>
   </tr>
 </table>
