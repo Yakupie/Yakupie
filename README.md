@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <h1>Namaste 🙏 I'm Yakup</h1>
+  <h1>Hello I'm Yakup</h1>
   
   <p>I am a Full-Stack Web Developer and a Statistics student at Fırat University who is passionate about creating modern, scalable, and visually engaging digital experiences. Since my early years, I have been deeply interested in computers, web technologies, and software development. My goal is to combine software engineering with AI-driven systems and analytical thinking to create impactful, innovative, and intelligent applications.</p>
 
@@ -46,5 +46,5 @@
 ### 📚 Languages & Tools I Have Placed My Hands On
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,nodejs,express,mongodb,postgresql,python,c,cpp,cs,dotnet,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,svelte,qwik,astro,nodejs,python,c,git,github,vscode" />
 </p>
