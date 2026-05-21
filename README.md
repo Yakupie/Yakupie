@@ -4,7 +4,7 @@
 
 <p align="center">
   <img 
-    src="https://komarev.com/ghpvc/?username=Yakupie&label=Profile%20Views&color=black&style=for-the-badge" 
+    src="https://komarev.com/ghpvc/?username=Yakupie&label=Profile%20Views&color=1f1f1f&style=for-the-badge" 
     height="28"
   />
 
