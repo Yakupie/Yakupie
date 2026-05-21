@@ -16,15 +16,15 @@
 
 <br/>
 
-### 💫 About Me
+### About Me
 
 <table align="center" width="100%">
   <tr>
     <td width="60%" valign="top">
-      <p>🌱 I am currently honing my programming skills through active development.</p>
-      <p>🛠️ Experienced in <b>Web Development</b> and <b>Front-End</b> architecture.</p>
-      <p>⚡ Passionate about <b>Artificial Intelligence, Machine Learning, Data Science, Automation,</b> and <b>Blockchain</b>.</p>
-      <p>✨ Driven by a commitment to <b>perfection</b> in every line of code.</p>
+      <p>I am currently honing my programming skills through active development.</p>
+      <p>Experienced in <b>Web Development</b> and <b>Front-End</b> architecture.</p>
+      <p>Passionate about <b>Artificial Intelligence, Machine Learning, Data Science, Automation,</b> and <b>Blockchain</b>.</p>
+      <p>Driven by a commitment to <b>perfection</b> in every line of code.</p>
     </td>
     <td width="40%" align="center">
       <img src="code.png" width="250px" alt="Programmer Illustration">
@@ -34,7 +34,7 @@
 
 <br/>
 
-### 📚 Languages & Tools I Have Placed My Hands On
+### Languages & Tools I Have Placed My Hands On
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,svelte,nodejs,python,c,git,vscode" />
